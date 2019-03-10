@@ -4,5 +4,3 @@ def instantiate_new_Array
 
   @my_new_array
 end
-
-new_Array
